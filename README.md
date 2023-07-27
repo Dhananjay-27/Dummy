@@ -1,2 +1,2 @@
 # Dummy
-A Repository for practice
+A Repository for Practice
