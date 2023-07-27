@@ -1,4 +1,4 @@
-what is the difference between date_sub , datediff in  sql ?
+what is the difference between date_sub , datediff in  sql ??
 
 In , DATE_SUB and DATEDIFF are both functions used for date calculations, but they serve different purposes:
 
